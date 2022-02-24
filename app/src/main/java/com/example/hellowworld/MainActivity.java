@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button my_button;
     private TextView my_TextView;
-    //mi firts app
+    //my second comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
